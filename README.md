@@ -1,6 +1,6 @@
 # 2019 국토교통해커톤 DEV 팀
-## Road Detection
- - Copyright 2019 DEV (Lee Donggun, Ryu dongjun)
+## GMD( Geep Meets Deep )
+ - Copyright 2019 DEV (Lee Donggun, Ryu dongjun, Kwang Woo Nam)
    - Hompage : http://infolab.kunsan.ac.kr
    
  - Team Info
@@ -13,6 +13,7 @@
    ```
  - Description
    - [2019 국토교통 빅데이터 해커톤](https://www.onoffmix.com/event/175691)
+   - [Information](https://github.com/Sotaneum/2019_molit_dev/raw/master/2019_MOLIT_DEV_TEAM.pptx)
  - Demo
    ```
     http://duration.digimoon.net/dev/2019-MOLIT/
@@ -22,11 +23,9 @@
     # install python3.6
     pip install "http://duration.digimoon.net/pip/tripconverter.whl"
     pip install "http://duration.digimoon.net/pip/analysistrip.whl"
-    // pip install "http://duration.digimoon.net/pip/molit2019server.whl"
+    // pip install "http://duration.digimoon.net/pip/molit2019server.whl" (The name of this project will be changed.)
    ```
- - How to use
-   ```
-    import molit2019server as server
-    server.run(8080)
-    # Goto http://localhost:8080/
-   ```
+ - We're going to add a separate description of server usage.
+ - The Tripconverter, AnalysisTrip, was opened to a separate Github repository for many developers to use for free.
+   - [Tripconverter](https://github.com/Sotaneum/Tripconverter)
+   - [AnalysisTrip](https://github.com/Sotaneum/AnalysisTrip)
