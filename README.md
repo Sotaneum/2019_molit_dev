@@ -1,5 +1,5 @@
 # 2019 국토교통해커톤 DEV 팀
-## GMD( Geep Meets Deep )
+## GMD( Geo Meets Deep )
  - Copyright 2019 DEV (Lee Donggun, Ryu dongjun, Kwang Woo Nam)
    - Hompage : http://infolab.kunsan.ac.kr
    
